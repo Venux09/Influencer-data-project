@@ -1,0 +1,9 @@
+#creating the infuluencer data projects 
+major features are 
+1.subscriber race visulaiation-battels
+2.catogries of youtuber who are becoming famous 
+3.different types of content 
+4.asia subs 
+5.america data 
+#1st thing 
+category of youtubers+engagement in thhose catogries ,like views and sub in total gained 
