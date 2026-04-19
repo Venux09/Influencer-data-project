@@ -1,2 +1,11 @@
-# Influencer grownt rate data 
-This is the project where i am doing data analyisis and also and data visulization of the 100 influensers including [MR Beast,T -series] and etc . their grownt rate and their subs race and their content type and also which type of content creation is boommig year by year or over last 5 years
+# 📊 Influencer Category Analysis Project
+
+## 🧠 Project Overview
+This project focuses on analyzing the growth of different YouTube content categories over the last 5 years using data analysis techniques.
+
+The goal is to:
+- Understand category-wise growth
+- Identify high-performing niches
+- Find content opportunities using data
+
+---
