@@ -7,3 +7,95 @@ major features are
 5.america data 
 #1st thing 
 category of youtubers+engagement in thhose catogries ,like views and sub in total gained 
+# 📅 Next Session Plan — Influencer Analysis Project
+
+## 🎯 Goal:
+
+Complete data analysis + polished visualization + insights
+
+---
+
+## ✅ 1. Data Analysis (Core)
+
+* Count total categories
+* Identify category with highest subscribers (2024)
+* Identify category with highest views (2024)
+* Identify category with lowest views (2024)
+* Create new column:
+
+  * `Subs_Growth = Subs_2024 - Subs_2020`
+* Sort categories by growth
+
+---
+
+## 📊 2. Visualization
+
+* Create bar plot for `Subs_Growth`
+* Convert values into billions (for readability)
+* Improve readability:
+
+  * Increase figure size
+  * Rotate x-axis labels OR use horizontal bar chart
+* Show only top 10 categories (if needed)
+
+---
+
+## 🎨 3. Graph Styling (Important)
+
+* Highlight:
+
+  * Highest growth → green
+  * Lowest growth → red
+  * Others → blue
+* Add values on bars
+* Add proper labels:
+
+  * Title
+  * X-axis
+  * Y-axis
+
+---
+
+## 🧠 4. Insights (Notebook)
+
+* Add markdown below graph
+* Write 3–5 clear insights:
+
+  * Top growing category
+  * Dominant categories
+  * Declining category
+  * Opportunity areas
+
+---
+
+## 📝 5. README Update
+
+* Add short “Key Insights” section
+* Keep it concise (4–5 bullet points)
+
+---
+
+## 🚀 6. Optional (If Time)
+
+* Create `Growth_Rate = Subs_Growth / Subs_2020`
+* Compare growth vs current size
+* Identify best category to start a channel
+
+---
+
+## 🏁 End Goal of Session
+
+* Clean analysis completed
+* One polished visualization
+* Insights written clearly
+
+---
+
+## ⚡ Reminder
+
+* Don’t rush
+* Focus on clarity over quantity
+* Always write insight after every analysis
+
+---
+
