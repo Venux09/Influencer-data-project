@@ -17,5 +17,43 @@ The goal is to:
 - Understand category-wise growth
 - Identify high-performing niches
 - Find content opportunities using data
+## 📊 Category Analysis Update
+
+### 🧹 Cleaning
+
+The category dataset was cleaned by:
+
+* Removing missing values and duplicates
+* Fixing incorrect category names
+* Removing invalid categories (e.g., Unknown, FakeCategory)
+* Filtering out unrealistic data
+
+---
+
+### 📈 Analysis
+
+* Calculated **subscriber growth (2020–2024)** for each category
+* Identified categories with:
+
+  * Highest subscribers
+  * Highest views
+  * Lowest views
+
+---
+
+### 🎨 Visualization
+
+* Created a bar chart for **subscriber growth by category**
+* Converted values to **billions** for better readability
+
+---
+
+### 🧠 Key Insight
+
+* Short-form content categories show the highest growth
+* Music and Kids remain dominant
+* Some categories show slower or declining growth
+
+---
 
 ---
