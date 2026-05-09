@@ -1,0 +1,42 @@
+Region,Sub_Region,Country,Continent_Group,Population_Million,Internet_Users_Million,YouTube_Users_Million,Avg_Daily_YouTube_Hours,Mobile_Internet_Percentage,Top_Content_Category,Average_Monthly_Views_Billion,Top_Creator,Top_Creator_Subs_Million,Language_Group,GDP_Per_Capita_USD
+India,South Asia,India,Asia,1430,950,467,2.8,76,Entertainment,185,T-Series,290,Hindi,2500
+Indonesia,Southeast Asia,Indonesia,Asia,280,212,139,2.5,78,Music,58,Ricis Official,48,Indonesian,4700
+Pakistan,South Asia,Pakistan,Asia,245,132,71,2.1,63,Entertainment,23,Ducky Bhai,16,Urdu,1600
+Bangladesh,South Asia,Bangladesh,Asia,173,105,53,2.0,71,Music,19,Tawhid Afridi,6,Bengali,2900
+Japan,East Asia,Japan,Asia,124,118,102,1.7,92,Gaming,44,HikakinTV,13,Japanese,34000
+South Korea,East Asia,South Korea,Asia,52,50,46,2.4,97,K-Pop,39,BLACKPINK,96,Korean,36000
+China,East Asia,China,Asia,1410,1080,350,1.1,96,Short Video,120,No Official YouTube Dominance,N/A,Mandarin,12600
+Philippines,Southeast Asia,Philippines,Asia,118,86,58,3.3,74,Vlogs,32,Cong TV,12,Filipino,3900
+Thailand,Southeast Asia,Thailand,Asia,71,61,54,2.3,84,Entertainment,25,Bie The Ska,15,Thai,7800
+Vietnam,Southeast Asia,Vietnam,Asia,101,79,63,2.0,79,Music,27,FAPTV,14,Vietnamese,4300
+Malaysia,Southeast Asia,Malaysia,Asia,35,33,29,2.1,91,Lifestyle,12,Les Copaque,16,Malay,12500
+Nepal,South Asia,Nepal,Asia,31,19,11,1.7,55,Music,4,Sisan Baniya,2,Nepali,1400
+Sri Lanka,South Asia,Sri Lanka,Asia,22,13,8,1.9,58,Education,3,SL VLOG,1,Sinhala,3900
+Saudi Arabia,West Asia,Saudi Arabia,Asia,37,36,31,2.6,99,Lifestyle,16,Noor Stars,22,Arabic,32000
+UAE,West Asia,UAE,Asia,10,10,9,2.2,99,Luxury/Lifestyle,5,Mo Vlogs,12,Arabic/English,47000
+Turkey,West Asia,Turkey,Asia,86,74,58,2.3,83,Drama,28,Orkun Isitmak,12,Turkish,10600
+Russia,Eastern Europe,Russia,Rest of World,146,130,95,1.9,85,News,42,A4,75,Russian,14000
+USA,North America,United States,Rest of World,342,312,246,2.9,93,Entertainment,240,MrBeast,390,English,82000
+Canada,North America,Canada,Rest of World,40,38,31,2.1,92,Education,11,Linus Tech Tips,16,English/French,54000
+Mexico,North America,Mexico,Rest of World,131,104,83,2.7,77,Entertainment,51,Badabun,47,Spanish,13000
+Brazil,South America,Brazil,Rest of World,216,181,144,2.8,81,Music,77,KondZilla,67,Portuguese,10300
+Argentina,South America,Argentina,Rest of World,46,41,33,2.2,82,Gaming,12,VEGETTA777,34,Spanish,13700
+UK,Europe,United Kingdom,Rest of World,69,66,57,2.0,95,Education,18,DanTDM,29,English,51000
+Germany,Europe,Germany,Rest of World,84,79,65,1.8,94,Tech,21,Kurzgesagt,24,German,55000
+France,Europe,France,Rest of World,65,61,52,1.9,92,Lifestyle,18,Squeezie,19,French,47000
+Spain,Europe,Spain,Rest of World,48,45,39,2.1,91,Gaming,14,elrubiusOMG,41,Spanish,33000
+Italy,Europe,Italy,Rest of World,59,54,45,1.7,89,Lifestyle,13,FavijTV,7,Italian,39000
+Nigeria,Africa,Nigeria,Rest of World,229,122,68,2.5,69,Comedy,18,MarkAngelComedy,9,English,2400
+South Africa,Africa,South Africa,Rest of World,63,47,32,2.1,73,Music,10,Waffles,2,English,6700
+Egypt,Africa,Egypt,Rest of World,116,82,55,2.2,71,Entertainment,16,Ahmed Hassan,8,Arabic,4300
+Australia,Oceania,Australia,Rest of World,27,26,22,1.9,96,Lifestyle,8,LazarBeam,22,English,65000
+New Zealand,Oceania,New Zealand,Rest of World,5,5,4,1.8,95,Gaming,1,Shane Dawson,18,English,52000
+Colombia,South America,Colombia,Rest of World,53,43,34,2.4,76,Music,13,Karen Polinesia,27,Spanish,6900
+Chile,South America,Chile,Rest of World,20,18,15,2.0,88,Tech,5,German Garmendia,45,Spanish,16000
+Peru,South America,Peru,Rest of World,35,27,20,2.1,73,Vlogs,7,Andynsane,4,Spanish,7200
+Poland,Europe,Poland,Rest of World,38,34,28,1.8,89,Gaming,9,Blowek,5,Polish,22000
+Netherlands,Europe,Netherlands,Rest of World,18,17,15,1.7,96,Tech,5,NikkieTutorials,14,Dutch,61000
+Sweden,Europe,Sweden,Rest of World,11,11,9,1.9,97,Gaming,4,PewDiePie,110,Swedish/English,63000
+Norway,Europe,Norway,Rest of World,6,6,5,1.7,98,Gaming,2,Noobwork,1,Norwegian,89000
+Kenya,Africa,Kenya,Rest of World,57,34,21,2.0,67,Comedy,6,Thee Pluto,1,English/Swahili,2200
+Morocco,Africa,Morocco,Rest of World,39,31,22,2.0,70,Entertainment,7,Ilyas Elmaliki,2,Arabic/French,3900
