@@ -55,5 +55,96 @@ The category dataset was cleaned by:
 * Some categories show slower or declining growth
 
 ---
+# 📊 Project Update — Influencer Growth Analysis
+
+## 🚀 Progress Overview
+
+The project currently includes two completed sections:
+
+1. **Category-Based Analysis**
+2. **Case Study: PewDiePie vs T-Series Subscriber Battle**
+
+---
+
+## 📁 Project Structure
+
+```
+influencer-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   ├── category_data.csv
+│   │   └── pewdiepie_vs_tseries.csv
+│   │
+│   └── processed/
+│
+├── notebooks/
+│   ├── category_analysis.ipynb
+│   └── pewdiepie_vs_tseries.ipynb
+│
+├── outputs/
+│   └── visualizations/
+│
+├── plan_file.txt
+└── README.md
+```
+
+---
+
+## 📊 Section 1: Category Analysis
+
+* Cleaned dataset by handling missing values, duplicates, and incorrect categories
+* Created **subscriber growth feature (2020–2024)**
+* Performed analysis:
+
+  * Total categories
+  * Highest subscribers
+  * Highest & lowest views
+* Built visualization:
+
+  * Bar chart of subscriber growth
+  * Highlighted highest and lowest growth categories
+* Added insights on:
+
+  * Fastest growing categories
+  * Dominant niches
+  * Declining categories
+
+---
+
+## 📈 Section 2: PewDiePie vs T-Series Case Study
+
+* Created structured dataset based on key timeline events
+* Converted data into time-series format
+* Built line plot to compare subscriber growth
+* Highlighted:
+
+  * Equal subscriber point
+  * Overtake moment (March 2019)
+* Derived insights on:
+
+  * Growth competition
+  * Turning point in the battle
+  * Momentum shift after overtake
+
+---
+
+## ✅ Current Status
+
+* ✔ Data cleaning completed
+* ✔ Initial analysis completed
+* ✔ Two major sections documented
+* ✔ Visualizations created with insights
+
+---
+
+## 🔜 Next Steps
+
+* Add new case study: **MrBeast vs T-Series**
+* Practice web scraping for data collection
+* Perform comparative analysis and visualization
+
+---
+
 
 ---
