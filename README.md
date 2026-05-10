@@ -146,5 +146,16 @@ influencer-analysis/
 
 ---
 
-
+## UPDATE :-
+1.i completed pewdipie vs Tseries and also provided the important insights that are really imporant to know 
+2. we have also completed the yotube content creating data and also did what is growing at good rate or slowly and also what is deeping badly :-
+* We did analysis of it and getting what we really need and added the insights about the data itself . which was added in the jupyter notebook itself'
 ---
+
+##NEXT STEPS :-
+What i have to create now is simple now i am doing the comparisin analyis of the asia vs world which is really interseting to be honest.
+it is crazt at the same time .
+what i did is simple i am collection the data from website about the world vs the Asia their watchhours , internet users and other thing like theirr internet usage and their gdp
+i will make the comparisn subplots of the 4 thing in this part of the project thier internet usage , their usage comparisn and many stuff to do 
+---
+So this was it 
