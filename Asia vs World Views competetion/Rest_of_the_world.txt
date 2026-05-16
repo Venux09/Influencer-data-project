@@ -1,0 +1,6 @@
+#Rest of the world data 
+1.The  number of country participating is 25 and they are ['India', 'Indonesia', 'Pakistan', 'Bangladesh', 'Japan', 'South Korea', 'China', 'Philippines', 'Thailand', 'Vietnam', 'Malaysia', 'Nepal', 'Sri Lanka', 'Saudi Arabia', 'UAE', 'Turkey'].
+2.The average monthly Views of the Rest of the world is 628 Billion.
+3.The popultaion of the 25 countries is 1963 million.
+4.The world most famous youtuber is MrBeast not including the asia with over 390 million
+5.Total internet users of the Rest of the world is 1614 million
