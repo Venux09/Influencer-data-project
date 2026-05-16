@@ -1,0 +1,6 @@
+Asia data analysis
+1.The most youtube channel in india is T-Series with over 290 Millons.
+2.Average monthly views of the asia is 640 billion
+3.The Total internet users in Asia is 3058 Million
+4.The countries that are includes in asia region is ['India', 'Indonesia', 'Pakistan', 'Bangladesh', 'Japan', 'South Korea', 'China', 'Philippines', 'Thailand', 'Vietnam', 'Malaysia', 'Nepal', 'Sri Lanka', 'Saudi Arabia', 'UAE', 'Turkey'].
+5.Total popultation of the Asia is 4225 million.
