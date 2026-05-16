@@ -1,0 +1,24 @@
+# 🌏 Asia vs Rest of the World Comparison
+
+## 📊 Comparative Analysis
+
+| Metric                       | Asia         | Rest of the World |
+| ---------------------------- | ------------ | ----------------- |
+| Top YouTube Channel          | T-Series     | MrBeast           |
+| Subscribers of Top Creator   | 290M+        | 390M+             |
+| Average Monthly Views        | 640 Billion  | 628 Billion       |
+| Total Internet Users         | 3058 Million | 1614 Million      |
+| Total Population             | 4225 Million | 1963 Million      |
+| Number of Countries Included | 16           | 25                |
+
+---
+
+## 🧠 Key Insights
+
+* Asia has a significantly larger population and internet user base compared to the Rest of the World dataset.
+* Despite having fewer countries in the dataset, Asia generated slightly higher average monthly views.
+* T-Series dominates the Asian region, while MrBeast leads globally outside Asia.
+* Asia represents one of the largest digital content consumption markets in the world.
+* The Rest of the World shows strong creator dominance through individual creators like MrBeast, while Asia is heavily influenced by large entertainment networks such as T-Series.
+
+---
