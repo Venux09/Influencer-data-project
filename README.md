@@ -152,10 +152,21 @@ influencer-analysis/
 * We did analysis of it and getting what we really need and added the insights about the data itself . which was added in the jupyter notebook itself'
 ---
 
-##NEXT STEPS :-
-What i have to create now is simple now i am doing the comparisin analyis of the asia vs world which is really interseting to be honest.
-it is crazt at the same time .
-what i did is simple i am collection the data from website about the world vs the Asia their watchhours , internet users and other thing like theirr internet usage and their gdp
-i will make the comparisn subplots of the 4 thing in this part of the project thier internet usage , their usage comparisn and many stuff to do 
+## NEXT STEPS :-
+* What i have to create now is simple now i am doing the comparisin analyis of the asia vs world which is really interseting to be honest.
+* it is crazt at the same time .
+* what i did is simple i am collection the data from website about the world vs the Asia their watchhours , internet      users and other thing like theirr internet usage and their gdp
+
 ---
 So this was it 
+
+
+## Project completed:-
+* Asia data analysis done.
+* Rest of the world analysis done .
+* Rest of the world Vs Asia analaysis done.
+* important insights added .
+
+
+- This project was good for learning but MY next one gonna be good one which can come in the use of the real market
+- 
