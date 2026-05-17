@@ -169,4 +169,4 @@ So this was it
 
 
 - This project was good for learning but MY next one gonna be good one which can come in the use of the real market
-- 
+- so i decided i will make carreier analysis ui analysis it will be a great and i would not say industry level but better than tutorial project
